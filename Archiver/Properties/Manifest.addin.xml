@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+    <Extension path="/MonoDevelop/Ide/Commands">
+        <Command id="Archiver.Commands.ZipSolution" _label="Zip Solution (code only)" defaultHandler="Archiver.ZipSolutionCommandHandler" />
+    </Extension>
+    <Extension path="/MonoDevelop/Ide/Commands">
+        <Command id="Archiver.Commands.GitArchiveSolution" _label="Git Archive Solution (HEAD)" defaultHandler="Archiver.GitArchiveSolutionCommandHandler" />
+    </Extension>
+    <Extension path="/MonoDevelop/Ide/ContextMenu/ProjectPad/Tools">
+        <SeparatorItem id="DisconnectSeparator" _label="Archiver" />
+        <CommandItem id="Archiver.Commands.ZipSolution" disabledVisible="false" />
+        <CommandItem id="Archiver.Commands.GitArchiveSolution" disabledVisible="false" />
+    </Extension>
+</ExtensionModel>
