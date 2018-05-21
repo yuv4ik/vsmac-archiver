@@ -14,12 +14,13 @@ Right click on the solution:
     * *.git/
     * *.vs/
 * Git Archive Solution (HEAD) - git archive solution of the latest commit on the current branch.
+   * Please note that at least one commit is required before this option will be available in the context menu.
 
 You can find more information about both methods in my [blogpost](https://smellyc0de.wordpress.com/2018/05/03/archiving-your-code/).
 
 ## Installation
 
-### Automatic
+### Automatic (pending approval, please use manual installation for now)
 
 You can download and install Archiver using the Extension Manager of Visual Studio for Mac by searching the Gallery.
 
