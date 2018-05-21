@@ -4,7 +4,7 @@ Is a Visual Studio for macOS add-in / extension that let you archive your soluti
 
 ## Features
 
-<img src="https://github.com/yuv4ik/vsmacdeepclean/raw/master/Graphics/demo.png" width="250"><br/>
+<img src="https://github.com/yuv4ik/vsmac-archiver/raw/master/Graphics/demo.png" width="250"><br/>
 
 Right click on the solution:
 * Zip Solution (code only) - zip solution ignoring the next directories:
