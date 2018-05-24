@@ -20,7 +20,7 @@ You can find more information about both methods in my [blogpost](https://smelly
 
 ## Installation
 
-### Automatic (pending approval, please use manual installation for now)
+### Automatic
 
 You can download and install Archiver using the Extension Manager of Visual Studio for Mac by searching the Gallery.
 
